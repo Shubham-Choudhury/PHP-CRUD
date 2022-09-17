@@ -1,0 +1,2 @@
+----create a database named 'php_crud'
+---- import 'php_crud.sql' in 'php_crud' database
